@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(78, 214, 78);
+  background-color: rgb(238, 77, 77);
 }
 
 h1 {
   text-align: center;
-  text-shadow: 2px 2px rgb(4, 68, 4);
+  text-shadow: 2px 2px rgb(68, 4, 15);
 }
 
 table,
@@ -26,18 +26,6 @@ td {
 table img {
   height: 200px;
   width: 150px;
-}
-
-div.gallery {
-  margin: 5px;
-  float: left;
-  width: 180px;
-}
-
-#imageGal {
-  display: flex;
-  justify-content: center;
-  padding-top: 20px;
 }
 
 #belowGrid {
